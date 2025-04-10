@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Denise, a software engineer at @Awesome-Technologies .
+
+- 🔭 I’m currently working on microservice infrastructure
+- 🌱 I’m currently learning general computer science
+- 📫 How to reach me: denise.albert@awesome-technologies.de
+
+
 <!--
 **DeAl2023/DeAl2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
